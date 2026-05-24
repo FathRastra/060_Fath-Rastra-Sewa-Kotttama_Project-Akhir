@@ -1,0 +1,16 @@
+Pesanan -744857456 (belum selesai)
+matcha|2|20000
+Total = 20000
+
+Pesanan -744857456 (belum selesai)
+teh|1|3000
+Total = 3000
+
+Pesanan -744857456 (belum selesai)
+teh|2|6000
+Total = 6000
+
+Pesanan 1 (belum selesai)
+kopi|1|3000
+Total = 3000
+

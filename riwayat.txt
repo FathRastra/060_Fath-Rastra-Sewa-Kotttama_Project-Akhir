@@ -1,0 +1,9 @@
+
+Pesanan 1 (selesai)
+teh|2|6000
+Total = 6000
+
+Pesanan 2 (selesai)
+nasi goreng|1|10000
+Total = 10000
+

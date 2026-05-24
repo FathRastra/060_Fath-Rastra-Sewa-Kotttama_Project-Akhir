@@ -1,0 +1,10 @@
+
+nasi goreng|Makanan|10000|
+nasi kuning|Makanan|10000|
+teh|Minuman|3000|
+matcha|Minuman|10000|
+lemontea|Minuman|6000|
+kentang goreng|Snack|12000|
+singkong keju|Snack|12000|
+kopi|Minuman|3000|
+
